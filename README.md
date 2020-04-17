@@ -2,7 +2,7 @@
 
 GDELT(**Global Database of Events, Language, and Tone**), monitors the world's news media from nearly every corner of every country in print, broadcast, and web formats, in over 100 languages, every moment of every day.
 
-``getgdelt``is a Python-based framework that calls the browser to download and format GDELT data.
+`getgdelt`is a Python-based framework that calls the browser to download and format GDELT data.
 
 # Why do we use getgdelt&usegdelt？
 
@@ -32,7 +32,7 @@ getgdelt(year_start,month_start,day_start,year_end,month_end,day_end)
 ```
 
 ### Use GDELT
-After your original GDELT files are downloaded and unzipped, usegdelt can help you format GDELT data.
+After your original GDELT files are downloaded and unzipped, `usegdelt` can help you format GDELT data.
 
 ```python
 from getgdelt import usegdelt
