@@ -19,7 +19,7 @@ For users who use non-professional hardware or in countries and regions with lim
 `getgdelt` can be installed via pip
 
 ```
-pip install getgdelt
+pip3.8 install getgdelt -i https://pypi.python.org/simple/
 ```
 
 ## Basic Examples
