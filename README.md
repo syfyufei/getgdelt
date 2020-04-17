@@ -32,6 +32,7 @@ getgdelt(year_start,month_start,day_start,year_end,month_end,day_end)
 ```
 
 ### Use GDELT
+After your original GDELT files are downloaded and unzipped, usegdelt can help you format GDELT data.
 
 ```python
 from getgdelt import usegdelt
