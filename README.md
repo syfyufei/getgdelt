@@ -27,14 +27,14 @@ pip install getgdelt
 ### Get GDELT
 
 ```python
-import getgdelt from getgdelt
+from getgdelt import getgdelt
 getgdelt(year_start,month_start,day_start,year_end,month_end,day_end)
 ```
 
 ### Use GDELT
 
 ```python
-import usegdelt from getgdelt
+from getgdelt import usegdelt
 gdelt = usegdelt(download_file_directory,output_file_directory)
 ```
 
